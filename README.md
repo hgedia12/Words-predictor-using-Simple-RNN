@@ -1,2 +1,3 @@
 # Words-predictor-using-Simple-RNN
-This is for learning purpose only, I have used Alice in the Wonderland's Dataset I will post the link below
+This is for learning purpose only,
+Some minor things in the code may vary as per user
